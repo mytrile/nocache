@@ -2,6 +2,8 @@
 
 Martini middleware/handler for removing ETag related headers and adding "no cache" headers
 
+**NOTE: This middleware will work only in development mode**
+
 ## Usage
 
 ~~~ go
